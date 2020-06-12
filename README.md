@@ -1,3 +1,6 @@
+Julio Ortiz, Francisco Benitez, Angelique Lopez
+
+
 CIS11 Course Project Part 1: Documenting the Project
 Fill in the following areas (purple).
 Introduction
